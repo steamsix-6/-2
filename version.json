@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "download_url": "https://github.com/steamsix-6/-2/raw/refs/heads/main/SteamPathDetector.exe",
     "release_notes": "Initial release with SteamStart / SteamRK auto-update."
 }
